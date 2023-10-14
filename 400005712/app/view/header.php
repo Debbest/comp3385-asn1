@@ -7,12 +7,8 @@
     <link rel="stylesheet" type="text/css" href="css/styles.css">
   </head>
   <header>
-    <div class="row" id="pgHeader">
-      <div class="col-6 col-a-6">
-        <img id="logo" src="images/logo.png" alt="logo">
-      </div>
-      <div class="col-6 col-a-6" id="logOut">
-        <button>Log out</button>
-      </div>
+    <div class="rcontainer">
+      <img id="logo" src="images/logo.png" alt="logo">
+      <button>Log out</button>
     </div>
   </header>
